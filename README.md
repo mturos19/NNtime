@@ -22,7 +22,7 @@ Steps involved in implementation of a neural network
 1. Feedforward, where input data and random weighs are given. The random weighs are then optimized using backpropagation.  
 2. Backpropagation, error calculation between predicted out and target out then use algo ( gradient descent ) to update the weight values.  
 
-Summary:
+Summary:  
 1 Take inputs.    
 2 Add bias (if required).    
 3 Assign random weights to input features.    
