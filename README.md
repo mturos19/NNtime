@@ -7,6 +7,9 @@ https://deepai.org/machine-learning-glossary-and-terms/neural-network#:~:text=An
 
 
 NN = neuron
+
 Piece of program that takes an input, uses network of functions to translate input into output
+
 No need to hard code characteristics, just give it training data, labeling what is needed and train it on it.
+
 Functionsn needs to be accurate and useful i.e. abstract the data, pinpoint certain data features etc. e.g. cat = 2 eyes 1 nose 1 mouth round head 2 ears
