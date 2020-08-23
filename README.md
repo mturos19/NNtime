@@ -23,11 +23,11 @@ Steps involved in implementation of a neural network
 2. Backpropagation, error calculation between predicted out and target out then use algo ( gradient descent ) to update the weight values.  
 
 Summary:  
-1 Take inputs.    
-2 Add bias (if required).    
-3 Assign random weights to input features.    
-4 Run the code for training.  
-5 Find the error in prediction.  
-6 Update the weight by gradient descent algorithm.  
-7 Repeat the training phase with updated weights.  
-8 Make predictions.  
+1. Take inputs.    
+2. Add bias (if required).    
+3. Assign random weights to input features.    
+4. Run the code for training.  
+5. Find the error in prediction.  
+6. Update the weight by gradient descent algorithm.  
+7. Repeat the training phase with updated weights.  
+8. Make predictions.  
